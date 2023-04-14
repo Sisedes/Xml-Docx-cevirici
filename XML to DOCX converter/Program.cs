@@ -31,7 +31,7 @@ class XMLtoDOCX
 
     public string DocxOlustur(string kaynakdosyaAD)
     {
-        string filePath = @"C:\Users\kaan4\source\repos\XML to DOCX converter\kaynak\"+kaynakdosyaAD+".docx";
+        string filePath = @"C:\xxxxx\source\repos\XML to DOCX converter\kaynak\"+kaynakdosyaAD+".docx";
         using (WordprocessingDocument document = WordprocessingDocument.Create(filePath, WordprocessingDocumentType.Document))
         {
             
@@ -48,8 +48,8 @@ class XMLtoDOCX
         XMLtoDOCX nesne = new XMLtoDOCX();
         #region hazir docx uzerine yazmak icin
 
-        string filepathofXML = "C:\\Users\\kaan4\\source\\repos\\XML to DOCX converter\\kaynak\\books.xml";
-        string filepathofDOCX = "C:\\Users\\kaan4\\source\\repos\\XML to DOCX converter\\kaynak\\deneme.docx"; //burada hazır verilen docx dosyası üzerine **yazma** işlemi yapılıyor
+        string filepathofXML = "C:\\xxxxx\\source\\repos\\XML to DOCX converter\\kaynak\\books.xml";
+        string filepathofDOCX = "C:\\xxxxx\\source\\repos\\XML to DOCX converter\\kaynak\\deneme.docx"; //burada hazır verilen docx dosyası üzerine **yazma** işlemi yapılıyor
 
         nesne.XmlToDocx(filepathofXML,filepathofDOCX);
 
@@ -58,7 +58,7 @@ class XMLtoDOCX
         #region yeni bir docx uzerine yazmak icin
         //xml filepathi yine belirtmek zorundayız
         //yeniden olusturmayi tercih ettim.
-        string filepathofXML2 = "C:\\Users\\kaan4\\source\\repos\\XML to DOCX converter\\kaynak\\books.xml";
+        string filepathofXML2 = "C:\\xxxxx\\source\\repos\\XML to DOCX converter\\kaynak\\books.xml";
         string yenidocxPath =nesne.DocxOlustur("yenidosya");
         nesne.XmlToDocx(filepathofXML2,yenidocxPath);
         #endregion

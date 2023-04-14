@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJ4cIA0rAZMXAJgFj0Gg8/7VDbrK6z884C8D+pVbis2mQ07w00vddgSGXloG+T1N3J1QE4nGmtN1/WmHSlSNbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaan4\\source\\repos\\XML to DOCX converter\\XML to DOCX converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaan4\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\kaan4\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\XML to DOCX converter.csproj.AssemblyReference.cache
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\XML to DOCX converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\XML to DOCX converter.AssemblyInfoInputs.cache
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\XML to DOCX converter.AssemblyInfo.cs
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\XML to DOCX converter.csproj.CoreCompileInputs.cache
+C:\Users\kaan4\source\repos\XML to DOCX converter\bin\Debug\net7.0\XML to DOCX converter.exe
+C:\Users\kaan4\source\repos\XML to DOCX converter\bin\Debug\net7.0\XML to DOCX converter.deps.json
+C:\Users\kaan4\source\repos\XML to DOCX converter\bin\Debug\net7.0\XML to DOCX converter.runtimeconfig.json
+C:\Users\kaan4\source\repos\XML to DOCX converter\bin\Debug\net7.0\XML to DOCX converter.dll
+C:\Users\kaan4\source\repos\XML to DOCX converter\bin\Debug\net7.0\XML to DOCX converter.pdb
+C:\Users\kaan4\source\repos\XML to DOCX converter\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\kaan4\source\repos\XML to DOCX converter\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\XML to DOCX converter.csproj.CopyComplete
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\XML to DOCX converter.dll
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\refint\XML to DOCX converter.dll
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\XML to DOCX converter.pdb
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\XML to DOCX converter.genruntimeconfig.cache
+C:\Users\kaan4\source\repos\XML to DOCX converter\obj\Debug\net7.0\ref\XML to DOCX converter.dll
